@@ -1,26 +1,40 @@
-# Hi there, I'm Rashi Srivastava 👋  
+# Hi there 👋, I'm Rashi Srivastava!  
 
-✨ A tech enthusiast who loves mixing creativity with code.  
-⚡ Exploring web development, machine learning, and open-source.  
-🎶 When I’m not coding, you’ll probably find me singing on stage.  
-🚀 Always curious. Always learning. Always building.  
+🌟 A tech enthusiast passionate about **web development, open source, and community building**.  
 
 ---
 
-## 🛠️ Tech Playground
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
+## 🚀 About Me
+- 🌱 Currently exploring **Machine Learning & Data Science**
+- 💻 Strong foundation in **DSA** and **Web Development**
+- 🎯 Love to collaborate on **open-source projects**
+- ✨ Always eager to learn, share, and grow with the community
 
 ---
 
-## 🌍 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rashi-srivastava25)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:rashisrivastava2506@gmail.com)  
+## 🛠️ Tech Stack
+💻 Languages:  
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white) 
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white) 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)  
+
+🌐 Web:  
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)  
+
+⚙️ Tools:  
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white) 
+![VS Code](https://img.shields.io/badge/VS%20Code-0078d7?style=for-the-badge&logo=visual-studio-code&logoColor=white)  
 
 ---
 
-⭐ *“Code. Create. Collaborate. Repeat.”*
+## 🐍 Contribution Snake
+![Snake animation](https://github.com/RashiSri25/RashiSri25/blob/output/dist/snake.svg)
+
+---
+⭐️ From [RashiSri25](https://github.com/RashiSri25)
+
 
 
