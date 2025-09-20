@@ -24,5 +24,3 @@
 ⭐ *“Code. Create. Collaborate. Repeat.”*
 
 
-![Snake animation](https://github.com/RashiSri25/RashiSri25/blob/output/dist/snake.svg)
-
