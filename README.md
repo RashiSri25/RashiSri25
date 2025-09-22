@@ -32,7 +32,11 @@
 
 
 ---
-⭐️ From [RashiSri25](https://github.com/RashiSri25)
+⭐️ From [RashiSri25](https://github.com/RashiSri25) 
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 
 
