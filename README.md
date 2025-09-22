@@ -30,8 +30,6 @@
 
 ---
 
-## 🐍 Contribution Snake
-![Snake animation](https://github.com/RashiSri25/RashiSri25/blob/output/dist/snake.svg)
 
 ---
 ⭐️ From [RashiSri25](https://github.com/RashiSri25)
